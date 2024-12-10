@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Topo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Topo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
